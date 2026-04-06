@@ -1,6 +1,3 @@
-Here’s a **recruiter + researcher–level rewrite** of your README. It keeps your work intact but upgrades positioning, clarity, and impact so it feels like a **serious NLP project**, not a coursework demo.
-
----
 
 # 🧠 Context-Aware Text Generation Engine (LSTM-based)
 
