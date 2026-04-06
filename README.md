@@ -1,4 +1,4 @@
-🧠 Next Word Predictor using LSTM
+🧠 Context-Aware Text Generation Engine ((LSTM-based))
 
 This project implements an LSTM-based Next Word Prediction model that generates coherent and context-aware text continuations. The model is trained on a custom world narrative dataset describing diverse countries, cities, and cultures. Built using PyTorch and NLTK, the model learns sequential language patterns and predicts the next word based on prior context.
 
