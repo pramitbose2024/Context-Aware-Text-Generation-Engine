@@ -134,10 +134,3 @@ This project demonstrates:
 * Ability to build **scalable data pipelines in PyTorch**
 * Practical implementation of **text generation systems used in modern AI products**
 
----
-
-If you want, I can take this one step further and:
-
-* Add **architecture diagram (very high impact for recruiters)**
-* Add **GitHub badges + visuals**
-* Convert this into a **research-style README (NeurIPS-level presentation style)**
